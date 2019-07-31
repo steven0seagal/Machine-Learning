@@ -1,2 +1,5 @@
 # Machine-Learning
-Some usefull scripts for machine learning 
+Scripts that are to this point:
+--> linear regression
+--> multivariate regression
+--> polynomial regression
