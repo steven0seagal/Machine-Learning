@@ -14,7 +14,7 @@ data = pd.read_csv('C:\\Users\\bartek\\PycharmProjects\\machine_learning\\data\\
 data.describe()
 
 # DEFINING AXES
-"dependent variable"
+"dependent variable, checking what interfere with GPA"
 y = data['GPA']
 "independent variable"
 x = data['SAT']
