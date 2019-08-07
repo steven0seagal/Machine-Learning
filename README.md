@@ -1,5 +1,5 @@
 # Machine-Learning 
 Scripts that are to this point: 
---> linear regression 
---> multivariate regression 
---> polynomial regression 
+--> linear regression \n
+--> multivariate regression \n
+--> polynomial regression \n
